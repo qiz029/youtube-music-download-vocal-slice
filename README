@@ -1,0 +1,1 @@
+This is a colab that reads from a google sheet, and download the song in those link, get the vocal, split that into slices and download that into your drive.
